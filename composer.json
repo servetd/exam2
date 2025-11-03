@@ -1,0 +1,13 @@
+{
+    "name": "gemini-cli/sinav-sistemi",
+    "description": "Sınav Tanılama, Atama ve Değerlendirme Modülü",
+    "authors": [
+        {
+            "name": "Gemini",
+            "email": "gemini@google.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.23"
+    }
+}
